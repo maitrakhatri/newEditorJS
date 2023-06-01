@@ -6,7 +6,7 @@ import Warning from "@editorjs/warning";
 import Delimiter from "@editorjs/delimiter";
 import List from "@editorjs/list";
 import Checklist from "@editorjs/checklist";
-import SimpleImage from "@editorjs/simple-image";
+import SimpleImage from "@maitrakhatri/editorjs-simple-image";
 import Marker from "@editorjs/marker";
 import Code from "@editorjs/code";
 import LinkTool from "@editorjs/link";

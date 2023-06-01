@@ -4,7 +4,7 @@ declare module '@editorjs/warning';
 declare module '@editorjs/delimiter';
 declare module '@editorjs/list';
 declare module '@editorjs/checklist';
-declare module '@editorjs/simple-image';
+declare module '@maitrakhatri/editorjs-simple-image';
 declare module '@editorjs/marker';
 declare module '@editorjs/code';
 declare module '@editorjs/link';
