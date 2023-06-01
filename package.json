@@ -31,7 +31,8 @@
     "editorjs-paragraph-with-alignment": "^3.0.0",
     "editorjs-text-alignment-blocktune": "^1.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2"
   },
   "devDependencies": {
     "@types/editorjs__header": "^2.6.0",

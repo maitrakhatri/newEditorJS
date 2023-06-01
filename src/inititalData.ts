@@ -38,7 +38,7 @@ export const initialData = {
             checked: true,
           },
           {
-            text: '<b>Embed </b>and <u class="cdx-underline">File attachment</u> support.',
+            text: '<b>Embed </b> support.',
             checked: true,
           },
           {
