@@ -12,7 +12,7 @@ import Code from "@editorjs/code";
 import LinkTool from "@editorjs/link";
 import Embed from "@editorjs/embed";
 import Table from "@editorjs/table";
-import Attaches from "@editorjs/attaches";
+// import Attaches from "@editorjs/attaches";
 import InlineCode from "@editorjs/inline-code";
 import Underline from "@editorjs/underline";
 import TextVariantTune from "@editorjs/text-variant-tune";
