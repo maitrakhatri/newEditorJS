@@ -15,3 +15,6 @@ declare module '@editorjs/inline-code';
 declare module '@editorjs/underline';
 declare module '@editorjs/text-variant-tune';
 declare module 'editorjs-paragraph-with-alignment';
+declare module 'editorjs-drag-drop';
+declare module 'editorjs-tooltip';
+declare module 'editorjs-text-color-plugin';
